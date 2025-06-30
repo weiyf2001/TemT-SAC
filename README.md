@@ -24,11 +24,11 @@ TemT-SAC (Temporal-Spatial Attention Convolutional Network) is a state-of-the-ar
 The model has been integrated into the European Centre for Medium-Range Weather Forecasts (ECMWF) operational suite and is publicly accessible for 10-day global forecasts.
 
 ### Figures
-![Pangu-Weather Architecture](path/to/pangu_architecture.png)
-![Inference Performance](./img/pangu1.png)
-![Inference Performance](./img/pangu2.png)
-![Inference Performance](./img/pangu3.png)
-![Inference Performance](./img/pangu4.png)
+![Pangu-Weather Architecture](./img/pangu_architecture.png)
+![Inference Performance](./img/pangu1.jpg)
+![Inference Performance](./img/pangu2.jpg)
+![Inference Performance](./img/pangu3.jpg)
+![Inference Performance](./img/pangu4.jpg)
 
 ### Resources
 - [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Download pre-trained models and inference tools *(Extraction Code: xxxx)*
