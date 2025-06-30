@@ -11,10 +11,9 @@ TemT-SAC (Temporal-Spatial Attention Convolutional Network) is a state-of-the-ar
 
 ### Figures
 ![TemT-SAC Architecture](./img/overall_structure.png)
-![Forecast Visualization](path/to/forecast_visualization_temt.png)
 
 ### Resources
-- [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Download pre-trained models and datasets *(Extraction Code: xxxx)*
+- [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Download the visual animated GIF：
 Baidu Netdisk: https://pan.baidu.com/s/1U2R1KrnvInvzAtw29cwB5A Passward: iitx 
 ---
 
