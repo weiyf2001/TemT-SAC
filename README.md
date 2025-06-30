@@ -1,13 +1,6 @@
-# TemT-SAC
-TemT-SAC model support materials.
-Due to web upload restrictions, we save larger supplementary results such as training log files and all test GIF animations in the following link:
+# Stratospheric Airship Trajectory Planning via Temporal Perception and Dual-Source Learning
 
-Baidu Netdisk: https://pan.baidu.com/s/1U2R1KrnvInvzAtw29cwB5A Passward: iitx 
-
-
-# TemT-SAC and Pangu-Weather: High-Resolution Weather Forecasting Models
-
-This repository provides resources related to **TemT-SAC** and **Pangu-Weather**, two advanced deep learning models for global weather forecasting. It also includes information about the **ERA5 Dataset**, which serves as the foundational dataset for training and evaluation.
+This repository provides resources related to **TemT-SAC** and **Pangu-Weather**. It also includes information about the **ERA5 Dataset**, which serves as the foundational dataset for training and evaluation.
 
 ---
 
