@@ -31,9 +31,8 @@ The model has been integrated into the European Centre for Medium-Range Weather 
 ![Inference Performance](./img/pangu4.jpg)
 
 ### Resources
-- [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Download pre-trained models and inference tools *(Extraction Code: xxxx)*
+- [Baidu Netdisk](https://pan.baidu.com/s/1DaOmMhuuD8nQY-b3jhXoGg) - Download pre-trained models and inference tools *(Extraction Code: vsnr)*
 - [Official Repository](https://github.com/198808xc/Pangu-Weather )
-
 ---
 
 ## 📊 ERA5 Dataset
@@ -47,7 +46,6 @@ The **ERA5 dataset** from the Copernicus Climate Change Service provides global 
 ![Variable T Distribution](./img/era5t.png)
 
 ### Resources
-- [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Preprocessed ERA5 samples *(Extraction Code: xxxx)*
 - [Official Website](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-pressure-levels )
 
 ---
