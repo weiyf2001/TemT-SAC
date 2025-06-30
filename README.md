@@ -13,8 +13,7 @@ TemT-SAC (Temporal-Spatial Attention Convolutional Network) is a state-of-the-ar
 ![TemT-SAC Architecture](./img/overall_structure.png)
 
 ### Resources
-- [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Download the visual animated GIF：
-Baidu Netdisk: https://pan.baidu.com/s/1U2R1KrnvInvzAtw29cwB5A Passward: iitx 
+- [Baidu Netdisk](https://pan.baidu.com/s/1U2R1KrnvInvzAtw29cwB5A) - Download the visual animated GIF： *(Extraction Code: iitx)*  
 ---
 
 ## 🌍 Pangu-Weather
@@ -26,7 +25,10 @@ The model has been integrated into the European Centre for Medium-Range Weather 
 
 ### Figures
 ![Pangu-Weather Architecture](path/to/pangu_architecture.png)
-![Performance Comparison](path/to/performance_comparison_pangu.png)
+![Inference Performance](./img/pangu1.png)
+![Inference Performance](./img/pangu2.png)
+![Inference Performance](./img/pangu3.png)
+![Inference Performance](./img/pangu4.png)
 
 ### Resources
 - [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Download pre-trained models and inference tools *(Extraction Code: xxxx)*
@@ -40,8 +42,9 @@ The model has been integrated into the European Centre for Medium-Range Weather 
 The **ERA5 dataset** from the Copernicus Climate Change Service provides global historical weather data at high spatial and temporal resolution. It includes surface and upper-air meteorological variables, serving as the backbone for training and validating AI-based forecasting models like Pangu-Weather and TemT-SAC.
 
 ### Figures
-![ERA5 Coverage](path/to/era5_coverage.png)
-![Variable Distribution](path/to/variable_distribution_era5.png)
+![Variable U Distribution](./img/era5u.png)
+![Variable V Distribution](./img/era5v.png)
+![Variable T Distribution](./img/era5t.png)
 
 ### Resources
 - [Baidu Netdisk](https://pan.baidu.com/s/1xxxxxxx ) - Preprocessed ERA5 samples *(Extraction Code: xxxx)*
