@@ -10,7 +10,7 @@ This repository provides resources related to **TemT-SAC** and **Pangu-Weather**
 TemT-SAC (Temporal-Spatial Attention Convolutional Network) is a state-of-the-art model designed for high-resolution, accurate short-term and medium-range weather forecasting. Built upon modern convolutional architectures and attention mechanisms, it captures complex spatiotemporal dependencies across multiple atmospheric variables.
 
 ### Figures
-![TemT-SAC Architecture](path/to/temt_sac_architecture.png)
+![TemT-SAC Architecture](./img/overall_structure.png)
 ![Forecast Visualization](path/to/forecast_visualization_temt.png)
 
 ### Resources
